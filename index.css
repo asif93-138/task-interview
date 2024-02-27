@@ -1,0 +1,224 @@
+.logo-img {
+    width: 3.4vw;
+}
+
+.logo-brand {
+    color: #FF8B42;
+}
+.btn-home {
+    background-color: #FF8B42;
+    font-size: small;
+    border: 0;
+    padding: 14px 30px;
+}
+.btn-home-2 {
+    color: #FF8B42;
+    background-color: white;
+    font-size: small;
+    padding: 13px 29px;
+}
+.btn-home:hover {
+    color: #FF8B42;
+    background-color: white;
+    border: 0;
+}
+.nav-arrow {
+    width: 20px;
+}
+.link-nav {
+    color: white;
+    font-size: smaller;
+}
+.link-nav:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+.icon-bg {
+    background-color: #FF8B42;
+    padding: 5px;
+}
+.w-40 {
+    width: 40%;
+}
+.w-15 {
+    width: 15%;
+}
+.w-60 {
+    width: 60%;
+}
+.arrow-up {
+    background-color: #FF8B42;
+    position: absolute;
+    right: 4%;
+    bottom: 17%;
+}
+footer {
+    position: relative;
+    padding-top: 50px;
+}
+.banner {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.banner-txt {
+    font-size: smaller;
+}
+.banner h2 {
+    font-weight: bold;
+}
+.banner-img-1 {
+    position: relative;
+}
+.w-10 {
+    width: 10%;
+}
+.person-b-1 {
+    position: absolute;
+    bottom: 0;
+    left: -13px;
+    z-index: 1;
+    width: 115%;
+}
+.banner-img-2 {
+    position: relative;
+}
+.banner-dot-2 {
+    position: absolute;
+    bottom: -12%;
+    left: -12%;
+  
+}
+.person-b-2 {
+    position: absolute;
+    bottom: 0;
+    left: -19%;
+}
+.w-35 {
+    width: 35%;
+}
+.cli-segments {
+    color: white;
+    background-color: #6E27E0;
+    padding-right: 0;
+    padding-left: 0;
+}
+.services-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+}
+.w-20 {
+    width: 20%;
+}
+.service-title {
+    font-weight: bold;
+}
+.achievements-bg {
+    padding: 100px 0;
+    margin: 80px auto;
+    background-image: linear-gradient(180deg, rgba(0, 137, 186, 0.00) 0%, rgba(76, 7, 188, 0.83) 100%), url('achivements-img.png');
+}
+.w-30 {
+    width: 30%;
+}
+.card-sl-pos {
+    position: relative;
+}
+.right-pos {
+    position: absolute;
+    left: -5%;
+    top: 40%;
+    z-index: 1;
+}
+.left-pos {
+    position: absolute;
+    right: -5%;
+    top: 40%;
+    z-index: 1;
+}
+/* .card-h {
+    height: 500px;    linear-gradient(180deg, rgba(110, 39, 224, 0.81) 0%, rgba(110, 39, 224, 0.81) 100%)
+} */
+.pt-fd {
+    background-image: url('Rectangle\ 41.png'), url('Rectangle\ 40.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 100px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 60px;
+}
+.w-5 {
+    width: 5%;
+}
+.pt-desg {
+    color: #FF8B42;
+}
+.date-ev {
+    position: absolute;
+    top: 4%;
+    right: 4%;
+    background-color: rgba(95, 29, 201, 0.5);
+}
+.subscriber {
+    background-color: #0089BA;
+    margin-top: 200px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+.sub-img-pos {
+    position: absolute;
+    width: 280%;
+    bottom: 0;
+    left: 0;
+}
+.subscriber article {
+    padding: 150px 20px;
+}
+.sub-dot-img {
+    width: 80%;
+    padding-top: 50px;
+}
+.subscriber-sec {
+    position: relative;
+}
+.subscriber-img-pos {
+    position: absolute;
+    right: 0;
+    top: -30%;
+    z-index: -1;
+    width: 15%;
+}
+.sick-child {
+    background-image: url('Rectangle\ 46.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    position: relative;
+}
+.sick-child-sec {
+    margin: auto 6%;
+}
+.sick-child-sec article {
+    padding: 80px;
+   
+}
+.sick-c-pos {
+    position: absolute;
+    width: 20%;
+    top: 25%;
+    right: 10%;
+}
+.sick-kid-btn {
+    position: absolute;
+    background-color: white;
+    top: 4%;
+    left: 0;
+}
+.sick-kid-btn-2 {
+    background-color: white;
+    position: absolute;
+    bottom: 20%;
+    right: -10%;
+}
