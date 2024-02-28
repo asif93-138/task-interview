@@ -112,7 +112,7 @@ footer {
 .achievements-bg {
     padding: 100px 0;
     margin: 80px auto;
-    background-image: linear-gradient(180deg, rgba(0, 137, 186, 0.00) 0%, rgba(76, 7, 188, 0.83) 100%), url('/Images/achivements-img.png');
+    background-image: linear-gradient(180deg, rgba(0, 137, 186, 0.00) 0%, rgba(76, 7, 188, 0.83) 100%), url('Images/achivements-img.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -145,7 +145,7 @@ footer {
     height: 500px;    linear-gradient(180deg, rgba(110, 39, 224, 0.81) 0%, rgba(110, 39, 224, 0.81) 100%)
 } */
 .pt-fd {
-    background-image: url('/Images/Rectangle\ 41.png'), url('/Images/Rectangle\ 40.png');
+    background-image: url('Images/Rectangle\ 41.png'), url('Images/Rectangle\ 40.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -205,7 +205,7 @@ footer {
     width: 15%;
 }
 .sick-child {
-    background-image: url('/Images/Rectangle\ 46.png');
+    background-image: url('Images/Rectangle\ 46.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center bottom;
