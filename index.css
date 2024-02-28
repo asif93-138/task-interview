@@ -1,13 +1,9 @@
-.logo-img {
-    width: 3.4vw;
-}
-
 .logo-brand {
     color: #FF8B42;
 }
 .btn-home {
     background-color: #FF8B42;
-    font-size: small;
+    
     border: 0;
     padding: 14px 30px;
 }
@@ -62,7 +58,7 @@ footer {
 .banner-txt {
     font-size: smaller;
 }
-.banner h2 {
+.banner h1 {
     font-weight: bold;
 }
 .banner-img-1 {
@@ -71,26 +67,27 @@ footer {
 .w-10 {
     width: 10%;
 }
+.two-doc-ver {
+    margin-right: 3%;
+}
 .person-b-1 {
     position: absolute;
-    bottom: 0;
-    left: -13px;
+    bottom: 7%;
+    left: 3%;
     z-index: 1;
-    width: 115%;
+   
 }
 .banner-img-2 {
     position: relative;
 }
 .banner-dot-2 {
     position: absolute;
-    bottom: -12%;
-    left: -12%;
-  
+    bottom: -2%;
+    left: -22%;
 }
 .person-b-2 {
     position: absolute;
     bottom: 0;
-    left: -19%;
 }
 .w-35 {
     width: 35%;
@@ -115,13 +112,22 @@ footer {
 .achievements-bg {
     padding: 100px 0;
     margin: 80px auto;
-    background-image: linear-gradient(180deg, rgba(0, 137, 186, 0.00) 0%, rgba(76, 7, 188, 0.83) 100%), url('achivements-img.png');
+    background-image: linear-gradient(180deg, rgba(0, 137, 186, 0.00) 0%, rgba(76, 7, 188, 0.83) 100%), url('/Images/achivements-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .w-30 {
     width: 30%;
 }
+.pos-rel-db {
+    position: relative;
+}
 .card-sl-pos {
     position: relative;
+    width: 45%;
+}
+.card-sl-pos-a {
+    width: 60%;
 }
 .right-pos {
     position: absolute;
@@ -139,17 +145,23 @@ footer {
     height: 500px;    linear-gradient(180deg, rgba(110, 39, 224, 0.81) 0%, rgba(110, 39, 224, 0.81) 100%)
 } */
 .pt-fd {
-    background-image: url('Rectangle\ 41.png'), url('Rectangle\ 40.png');
+    background-image: url('/Images/Rectangle\ 41.png'), url('/Images/Rectangle\ 40.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    padding-bottom: 100px;
     margin-top: 80px;
     margin-bottom: 80px;
-    padding-top: 60px;
+    padding-top: 4%;
+    padding-bottom: 8%;
+}
+.pt-fd article {
+    margin: 0 6%;
 }
 .w-5 {
     width: 5%;
+}
+.w-80 {
+    width: 80%;
 }
 .pt-desg {
     color: #FF8B42;
@@ -169,16 +181,18 @@ footer {
 }
 .sub-img-pos {
     position: absolute;
-    width: 280%;
+    width: 85%;
+    max-height: 145%;
+    min-height: 115%;
     bottom: 0;
-    left: 0;
+    left: 6%;
 }
 .subscriber article {
     padding: 150px 20px;
 }
 .sub-dot-img {
-    width: 80%;
-    padding-top: 50px;
+    width: 30%;
+    padding-top: 40px;
 }
 .subscriber-sec {
     position: relative;
@@ -191,7 +205,7 @@ footer {
     width: 15%;
 }
 .sick-child {
-    background-image: url('Rectangle\ 46.png');
+    background-image: url('/Images/Rectangle\ 46.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center bottom;
