@@ -181,9 +181,7 @@ footer {
 }
 .sub-img-pos {
     position: absolute;
-    width: 85%;
-    max-height: 145%;
-    min-height: 115%;
+    width: 315px;
     bottom: 0;
     left: 6%;
 }
@@ -235,4 +233,43 @@ footer {
     position: absolute;
     bottom: 20%;
     right: -10%;
+}
+.doc-schd-sect {
+    margin-top: 100px;
+}
+.doc-schd img {
+    background-color: #FF8B42;
+}
+.doc-schd-pos-1 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.doc-schd-pos-2 {
+    position: absolute;
+    left: -30%;
+    top: 7%;
+}
+.doc-schd-pos-3 {
+    position: absolute;
+    right: -5%;
+    top: -5%;
+}
+.doc-schd-div-1 {
+    margin: auto 5%; 
+}
+.doc-schd-div-2 {
+    margin-right: 15%; 
+    margin-left: 2%; 
+}
+.doc-schd-div-2 h2 {
+    margin-bottom: 70px;
+}
+.doc-schd-div-2 .border-dark {
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.doc-schd-div-2 .msl-5 {
+    margin-left: 100px;
+   
 }
